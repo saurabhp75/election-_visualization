@@ -1,14 +1,14 @@
-## Visualization of:
+# Visualization of:
 ### 1. [Lok Sabha Elections(2019)](https://saurabhp75.github.io/election_visualization/choropleth.html)
-### 2. [Delhi vidhan Sabha Elections(2015)](https://saurabhp75.github.io/election_visualization/delhi.html)
+### 2. [Delhi Vidhan Sabha Elections(2015)](https://saurabhp75.github.io/election_visualization/delhi.html)
 
-## Data scraped from: 
+# Data scraped from: 
 [Myneta](http://www.myneta.info/)
 
-## Map file sourced from: 
+# Map file sourced from: 
 [Data{Meet}](http://datameet.org/2017/03/15/home-for-all-our-maps/)
 
-## Tools/tech for this visualization:
+# Tools/tech for this visualization:
 1. Scrapy : Scraping data.
 2. Pandas/Jupyter : Data cleaning.
 3. Geopandas : Merging data with geojson map.
