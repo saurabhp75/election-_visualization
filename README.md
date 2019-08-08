@@ -2,13 +2,13 @@
 1. Lok Sabha Elections(2019)
 2. Delhi vidhan Sabha Elections(2015)
 
-##Data scraped from: 
-http://www.myneta.info/
+## Data scraped from: 
+[Myneta](http://www.myneta.info/)
 
-##Map file source: 
-http://datameet.org/2017/03/15/home-for-all-our-maps/
+## Map file sourced from: 
+[Data{Meet}](http://datameet.org/2017/03/15/home-for-all-our-maps/)
 
-##Tools/tech for this visualization:
+## Tools/tech for this visualization:
 1. Scrapy : Scraping data.
 2. Pandas/Jupyter : Data cleaning.
 3. Geopandas : Merging data with geojson map.
